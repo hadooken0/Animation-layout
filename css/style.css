@@ -1,5 +1,15 @@
+/* Font Vars */
+/* Color Vars */
+/* Dimension Vars */
+/* Mixins */
 /* Reset all margins & paddings */
 * {
   padding: 0;
   margin: 0;
+}
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  box-sizing: border-box;
 }
